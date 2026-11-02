@@ -1,0 +1,15 @@
+# .NET
+bin/
+obj/
+out/
+*.user
+*.suo
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+
+# Logs e temporários
+*.log
+*.tmp
